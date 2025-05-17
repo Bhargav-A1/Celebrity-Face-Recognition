@@ -1,6 +1,5 @@
-# Celebrity-Face-Recognition
+# Celebrity Face Recognition using Deep Transfer Learning (AlexNet + MATLAB)
 
-Celebrity Face Recognition using Deep Transfer Learning (AlexNet + MATLAB)
 Project Overview
 Celebrity Face Recognition is a deep learning-based computer vision project developed using MATLAB and powered by AlexNet via Transfer Learning. The system is designed to accurately classify and recognize celebrity faces from a custom dataset using a pre-trained convolutional neural network (CNN) architecture, adapted for the specific domain of facial identity classification.
 
